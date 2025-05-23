@@ -1,0 +1,1 @@
+23122024,15:42:38 - CPU Usage of system : scputimes(user=45.41, nice=0.0, system=117.44, idle=980236.96, iowait=1.21, irq=0.0, softirq=3.97, steal=0.0, guest=0.0, guest_nice=0.0)
